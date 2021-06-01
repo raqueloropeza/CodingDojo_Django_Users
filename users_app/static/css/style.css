@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* outline: 1px dotted red; */
+    
+}
+
+.container{
+    max-width: 100%;
+    padding: 20px 200px 20px 200px; 
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+
+h2{
+    text-align: center;
+    color: whitesmoke;
+    border-top: 2px solid white;
+    padding: 10px;
+}
+
+.table {
+    border: 2px solid white;
+}
+
+.table-dark {
+    background-color: black;
+}
+
+form{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.col-sm-2{
+    width: 120px;
+    color: whitesmoke;
+    padding-left: 20px;
+    margin-left: 170px;
+
+}
+
+input { 
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 2px solid white; 
+    background-color: whitesmoke;
+}
+
+.button {
+    text-align: center;
+    margin-left: 700px;
+
+}
